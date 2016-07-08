@@ -1,7 +1,7 @@
 # Portfolio
 
-#This is the Portfolio of Frank Beatrice
-#Software Developer | Tech enthusiast | Hardware Hacker
+<h2>This is the Portfolio of Frank Beatrice</h2>
+# Software Developer | Tech enthusiast | Hardware Hacker
 
 
 This Portfolio was made to show cases skills & feature links to new\exsiting app development
