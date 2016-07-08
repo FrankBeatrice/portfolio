@@ -19,4 +19,5 @@ The Schema & design of this site maybe be used and editied for another purpose
 
 OPEN SOURCE DISCLAIMER:
 You may use the code to build your own Portfolio site, experiment with desgin, and to improve your own code.
+<br></br>
 *HOWEVER you may not use the images belonging to Frank Beatrice without explicit permission
