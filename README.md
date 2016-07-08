@@ -1,6 +1,6 @@
 # Portfolio: 
 
-<h2>This is the Portfolio of Frank Beatrice <br></br>
+<h4>This is the Portfolio of Frank Beatrice <br></br>
 Software Developer | Tech enthusiast | Hardware Hacker</h3>
 
 
