@@ -8,12 +8,12 @@ Software Developer | Tech enthusiast | Hardware Hacker</h3>
 This Portfolio was made to show cases skills & feature links to new\exsiting app development
 
 
-The Schema \ design of this site maybe be used and editied for another purpose
+The Schema & design of this site maybe be used and editied for another purpose
 
 
 
 
-Note to developers: All content in Portfolio belongs to Frank Beatrice as well as the rights to the code
+<h10>Note to developers: All content in Portfolio belongs to Frank Beatrice as well as the rights to the code</h10>
 
 
 
