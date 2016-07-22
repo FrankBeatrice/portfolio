@@ -1,10 +1,13 @@
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Source+Sans+Pro:200,400");
+
 
 body {
-	background: url("../images/concrete_seamless.png");
+	background: #f4f4f4;
 	font-size: 18px;
 	line-height: 34px;
-	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	color: #777;
+	color: ##666666;
+    font:BlinkMacSystemFont;
 }
 
 * {
@@ -29,7 +32,7 @@ p:last-child {
 	margin-bottom: 0;
 }
 h1, h2, h3 {
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: BlinkMacSystemFont;;
 	font-weight: 700;
 	color: #4aaaa5;
 }
@@ -61,7 +64,7 @@ h3 {
 	height: 90px;
 	background: #4aaaa5;
 	float: left;
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: BlinkMacSystemFont;
 	text-align: center;
 	line-height: 90px;
 	color: #fff;
@@ -114,8 +117,7 @@ h3,
 .sidebar h2 {
 	border-bottom: 2px solid #eee;
 	padding-bottom: 20px;
-	margin-bottom: 15px;
-	line-height: 22px;
+	margin-bottom: 15px;	line-height: 22px;
 }
 .social {
 	width: 62px;
@@ -157,7 +159,6 @@ h3,
 .work img {
 	width: 100%;
 	border: 0 none;
-	opacity: .8;
 }
 .work h3 {
 	border-bottom: 0;
@@ -191,26 +192,85 @@ h3,
 label,
 input[type=text],
 input[type=email],
+button,
+.button
 textarea {
 	display: block;
 	width: 100%;
 }
 input[type=text],
 input[type=email],
+input[type="reset"],
+button,
+.button
 textarea {
 	height: 35px;
 	border: 1px solid #ddd;
 	padding: 0 10px;
 	font-size: 14px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    -moz-transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -ms-transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    border-radius: 4px;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    height: 3.5em;
+    line-height: 3.5em;
+    padding: 0 2em 0 2.375em;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 0.325em;
+    font-size: 0.725em;
 }
 textarea {
 	height: 200px;
 }
-input[type=submit] {
+input[type=submit]
+ {
 	background: #4aaaa5;
 	border: 0 none;
 	color: #fff;
 	font-size: 18px;
 	padding: 10px 30px;
 	cursor: pointer;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    -moz-transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -ms-transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    border-radius: 4px;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    height: 3.5em;
+    line-height: 3.5em;
+    padding: 0 2em 0 2.375em;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 0.325em;
+    font-size: 0.725em;
 }
+
+#message  {
+element.style
+    margin: 0px;
+    width: 487px;
+    height: 200px;
+}
+
+
