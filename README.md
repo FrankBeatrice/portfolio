@@ -7,7 +7,6 @@ Link : https://infinite-taiga-79979.herokuapp.com/index.html
 
 This Portfolio was made to show cases skills & feature links to new\exsiting app development
 
-Link : https://infinite-taiga-79979.herokuapp.com/index.html
 
 The Schema & design of this site maybe be used and editied for another purpose
 
