@@ -3,10 +3,10 @@
 <h4>This is the Portfolio of Frank Beatrice <br></br>
 Software Developer | Tech enthusiast | Hardware Hacker</h3>
 
-Link : https://infinite-taiga-79979.herokuapp.com/index.html
 
 This Portfolio was made to show cases skills & feature links to new\exsiting app development
 
+Link : https://infinite-taiga-79979.herokuapp.com/index.html
 
 The Schema & design of this site maybe be used and editied for another purpose
 
